@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning docker <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
 
-<img src="https://www.codewars.com/users/AbduazizZiyodov/badges/large">
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbduazizZiyodov&show_icons=true&theme=dracula)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbduazizZiyodov&theme=dracula">
 
