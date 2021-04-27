@@ -6,7 +6,6 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbduazizZiyodov&show_icons=true&theme=dracula)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbduazizZiyodov&theme=dracula">
 
 **My Skills:**
 
