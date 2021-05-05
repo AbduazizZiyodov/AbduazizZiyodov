@@ -1,7 +1,6 @@
 ### Hi, I'm Abduaziz 👋
 
 
-- 🔭 I’m currently working on `ramazon-api`
 - 🌱 I’m currently learning docker <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 
 
