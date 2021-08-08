@@ -8,7 +8,7 @@ async def hello_visitor() -> Response:
     }, status=200)
 ```
 
-- **🔥 I’m currently learning Angular and I also planning learn devOps!**
+- **🔥 I’m currently learning Angular and I'm also planning to learn devOps!**
 
 
 
