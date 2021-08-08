@@ -1,28 +1,57 @@
 ### Hi, I'm Abduaziz 👋
 
+```python
+@app.get('/AbduazizZiyodov')
+async def hello_visitor() -> Response:
+    return Response({
+          "message" : "I'm a backend developer with professional experience in python's web frameworks😀!",
+    }, status=200)
+```
 
-- 🌱 I’m currently learning docker <a href="https://www.docker.com/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
+- **🔥 I’m currently learning Angular and I also planning learn devOps!**
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AbduazizZiyodov&show_icons=true&theme=dracula)
 
-**My Skills:**
+#### **Languages**
 
-**Languages, Frameworks and Libraries:** <br>
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"> - `Python`  |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"> - `JavaScript`  |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="21px" height="21px"> - `Jquery`  |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"> - `Bootstrap` |
-<img alt="Flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="21px" height="21px"> - `Flask`  |
-<img alt="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="21px" height="21px"> - `Django`  |
-<img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="21px" height="21px"> - `SQL` (PostgreSQL, SQLite)
+- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"> - Python  |
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"> - JavaScript  |
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="golang" width="31px"> - Golang (some exprience)
 
-**Tools**: <br>
-<img src="http://cdn.auth0.com/blog/postman-integration/logo.png" alt="postman" width="21px" height="21px"> - `Postman` |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"> - `Git` |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"> - `Vs Code` |
-<img alt="terminal" src="https://camo.githubusercontent.com/bb10448c2d418e1d8fc24c88087aa657e717a66106e22b1ec997e908231844dd/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e67696e782d6c6f676f2d464636353630324137362d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/N/nginx-logo-FF65602A76-seeklogo.com.png"  width="21px" height="21px"> - `Nginx` |
+#### **Frameworks** 
+
+- <img alt="Django" src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" width="21px"> - Django | 
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Fastapi" width="60px"> - FastAPI | 
+<img alt="Flask" src="https://github.com/tomchen/stack-icons/blob/master/logos/flask.svg" width="21px"> - Flask | 
+<img alt="Angular" src="https://github.com/tomchen/stack-icons/blob/master/logos/angular.svg" width="61px"> - Angular 
+
+
+#### **Libraries**
+
+- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="21px" > - Jquery  |
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="21px" > - Bootstrap
+
+#### **Databases**
+- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="postgres" width="21px"> - PostgreSQL
+
+#### **Others**
+- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="sass" width="21px"> - Sass | 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/sentry.svg" alt="sentry" width="21px"> - Sentry | 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="nodejs" width="21px"> - NodeJS |
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/gunicorn.svg" alt="gunicorn" width="21px"> - Gunicorn |
+
+#### **Tools**
+- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="" width="21px"> - Docker | 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/nginx.svg" alt="nginx" width="40px"> - Nginx | 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="postman" width="21px" > - Postman | 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" > - Git  
 
 <br>
 
-Email: `abduaziz.ziyodov@mail.ru`
+![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=AbduazizZiyodov&show_icons=true&theme=dracula)
+
+#### **Contact**
+
+* Email: `abduaziz.ziyodov@mail.ru`
+* Linkedin: `https://www.linkedin.com/in/abduaziz-ziyodov/`
+* Telegram: `@AbduazizZiyodov`
