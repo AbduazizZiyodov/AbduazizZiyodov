@@ -4,7 +4,7 @@
 @app.get('/AbduazizZiyodov')
 async def hello_visitor() -> Response:
     return Response({
-          "message" : "I'm a backend developer with professional experience in python's web frameworks😀!",
+          "message" : "I'm a backend developer with professional experience in python and its web frameworks😀!",
     }, status=200)
 ```
 
