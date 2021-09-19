@@ -2,56 +2,54 @@
 
 ```python
 @app.get('/AbduazizZiyodov')
-async def hello_visitor() -> Response:
-    return Response({
-          "message" : "I'm a backend developer with professional experience in python and its web frameworks😀!",
-    }, status=200)
+def hello_visitor():
+    return "message" : "I'm a backend developer 😀 (python)!"
 ```
 
 - **🔥 I’m currently learning Angular and I'm also planning to learn devOps!**
 
-
-
 #### **Languages**
 
-- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"> - Python  |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"> - JavaScript  |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="golang" width="31px"> - Golang (some exprience)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### **Frameworks** 
 
-- <img alt="Django" src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" width="21px"> - Django | 
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Fastapi" width="60px"> - FastAPI | 
-<img alt="Flask" src="https://github.com/tomchen/stack-icons/blob/master/logos/flask.svg" width="21px"> - Flask | 
-<img alt="Angular" src="https://github.com/tomchen/stack-icons/blob/master/logos/angular.svg" width="61px"> - Angular 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 
 
-#### **Libraries**
-
-- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="21px" > - Jquery  |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="21px" > - Bootstrap
 
 #### **Databases**
-- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="postgres" width="21px"> - PostgreSQL
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### **Others**
-- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="sass" width="21px"> - Sass | 
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/sentry.svg" alt="sentry" width="21px"> - Sentry | 
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="nodejs" width="21px"> - NodeJS |
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/gunicorn.svg" alt="gunicorn" width="21px"> - Gunicorn |
 
-#### **Tools**
-- <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="" width="21px"> - Docker | 
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/nginx.svg" alt="nginx" width="40px"> - Nginx | 
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="postman" width="21px" > - Postman | 
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" > - Git  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/sentry.svg" alt="sentry" width="21px"> Sentry
 
-![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=AbduazizZiyodov&show_icons=true&theme=dracula)
+#### **Hostings**
 
-#### **Contact**
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
-* Email: `abduaziz.ziyodov@mail.ru`
+**Operating systems that I'm using and used 😁**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+
 * Linkedin: `https://www.linkedin.com/in/abduaziz-ziyodov/`
 * Telegram: `@AbduazizZiyodov`
