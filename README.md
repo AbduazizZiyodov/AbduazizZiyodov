@@ -3,7 +3,7 @@
 ```python
 @app.get('/AbduazizZiyodov')
 def hello_visitor():
-    return "message" : "I'm a backend developer 😀 (python)!"
+    return "I'm a backend developer 😀 (python)!"
 ```
 
 - **🔥 Currently I'm learning numpy and pandas**
