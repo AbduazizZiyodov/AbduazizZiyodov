@@ -1,12 +1,16 @@
 ### Hi, I'm Abduaziz 👋
 
 ```python
-@app.get('/AbduazizZiyodov')
+@get('github.com/AbduazizZiyodov')
 def hello_visitor():
-    return "I'm a backend developer 😀 (python)!"
+    return { 
+           "message" : "Welcome to my new GitHub account!"
+           "info" : "I'm a backend developer 😀 (python)!"
+    }
 ```
 
 - **🔥 Currently I'm learning numpy and pandas**
+
 
 #### **Languages**
 
