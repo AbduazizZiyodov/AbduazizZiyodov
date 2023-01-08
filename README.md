@@ -8,11 +8,10 @@
 ```
 
 * **Programming languages**: python, JS/TS
-* **Frameworks**: flask, django, startlette and fastAPI + some experience with angular.
+* **Frameworks**: Flask, Django, and FastAPI(or starlette) + some experience with angular.
 * **Databases**: postgresql, sqlite.
 * **Testing**: postman, pytest.
-* **Libraries**: pandas, matplotlib, numpy.
-* **Others**: docker, nginx.
+* **Others**: docker, nginx, github actions.
 
 <hr>
 
