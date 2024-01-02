@@ -1,17 +1,17 @@
 ### Hi, I'm Abduaziz 👋
 
-```py
+```python
 { 
-   "message" : "Welcome to my new github account!",
-   "info" : "I'm a backend developer (python)!"
+   "message": "Welcome to my new GitHub account!",
+   "info": "I'm a backend developer (python)!"
 }
 ```
 
-* **Programming languages**: python, JS/TS
-* **Frameworks**: Flask, Django, and FastAPI(or starlette) + some experience with angular.
-* **Databases**: postgresql, sqlite.
-* **Testing**: postman, pytest.
-* **Others**: docker, nginx, github actions.
+* **Programming languages**: Python, JS/TS
+* **Frameworks**: Flask, Django, and Starlette(FastAPI) + some experience with angular.
+* **Databases**: Redis, PostgreSQL, SQLite.
+* **Testing**: Postman, pytest.
+* **Others**: Docker(compose, swarm), Nginx, GitHub actions, Jenkins.
 
 <hr>
 
